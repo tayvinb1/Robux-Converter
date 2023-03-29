@@ -1,0 +1,11 @@
+D:\VisualProjects\Robux Converter\Robux Converter\bin\Debug\Robux Converter.exe.config
+D:\VisualProjects\Robux Converter\Robux Converter\bin\Debug\Robux Converter.exe
+D:\VisualProjects\Robux Converter\Robux Converter\bin\Debug\Robux Converter.pdb
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux Converter.csproj.AssemblyReference.cache
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux Converter.csproj.SuggestedBindingRedirects.cache
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux_Converter.Form1.resources
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux_Converter.Properties.Resources.resources
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux Converter.csproj.GenerateResource.cache
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux Converter.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux Converter.exe
+D:\VisualProjects\Robux Converter\Robux Converter\obj\Debug\Robux Converter.pdb
